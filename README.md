@@ -5,8 +5,8 @@ Finally, I have done it
 
 ```c
 createDynamicArray(float, FloatVec); 
-``` ->
-
+``` 
+Becomes
 ```c
 typedef struct {
   float * data;
